@@ -1,2 +1,2 @@
 # this is an example .gitignore file
-/*.log
+*.log
